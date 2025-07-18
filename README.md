@@ -1,4 +1,4 @@
-I'm a Jr. Application Security researcher focused on learning offensive code review and finding vulnerabilities in open-source projects.
+I'm a Application Security researcher focused on learning offensive code review and finding vulnerabilities in open-source projects.
 
 - 📧 Contact: baranteyin@protonmail.com
 
